@@ -1,0 +1,31 @@
+body {
+  font-family: monospace;
+  background-color: #212121;
+  color: #eeeeee;
+  margin: 0px;
+}
+
+a {
+  color: #00bbff;
+}
+
+.botname {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.slogan {
+  font-size: 32px;
+  position: absolute;
+  top: 40px;
+  width: 100%;
+  text-align: center;
+}
+
+#text {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}

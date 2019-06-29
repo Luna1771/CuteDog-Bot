@@ -1,0 +1,29 @@
+{
+  "name": "cutedog",
+  "version": "0.0.1",
+  "description": "Lunas neuer Discord Bot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "ytdl-core": "^0.29.2",
+    "discord-youtube-api": "^0.1.0",
+    "node-opus": "^0.3.2",
+    "pug": "^2.0.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/cutedog"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

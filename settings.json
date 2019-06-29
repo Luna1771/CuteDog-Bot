@@ -1,0 +1,41 @@
+{
+  "account": {
+    "footer": "Ein Bot von Luna#1771.",
+    "name": "NikeBot",
+    "prefix": "--"
+  },
+  "colors": {
+    "default": "0x0088ff",
+    "error": "0xff0000",
+    "warning": "0xffff00"
+  },
+  "maintenance": {
+    "status": false
+  },
+  "status": {
+    "maintenance": "Maintenance",
+    "normal": [
+      "Bella zu.",
+      "dich an.",
+      "auf YouTube.",
+      "Luna beim Programmieren zu.",
+      "nichts.",
+      "ein Easter Egg an.",
+      "Farbe beim Trocknen zu.",
+      "Luna beim Netflix schauen zu.",
+      "Eis beim schmelzen zu."
+    ],
+    "refreshinterval": "5"
+  },
+  "team": {
+    "memberIDs": [
+      "539038144738099213"
+    ],
+    "owner": "213764382486822912"
+  },
+  "users": {
+    "botbans": [
+      "placeholder"
+    ]
+  }
+}
