@@ -12,7 +12,7 @@
     "ytdl-core": "^0.29.2",
     "discord-youtube-api": "^0.1.0",
     "node-opus": "^0.3.2",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "engines": {
     "node": "8.x"
